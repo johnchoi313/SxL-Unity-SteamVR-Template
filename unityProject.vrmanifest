@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.unitysteamvrtemplate.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\SXL_FACULTY\\Documents\\Spatial Computing Design\\Unity Projects\\Unity SteamVR Template\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Unity SteamVR Template [Testing]"
+        }
+      }
+    }
+  ]
+}
